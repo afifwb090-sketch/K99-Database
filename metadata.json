@@ -1,0 +1,6 @@
+{
+  "name": "K99 Coffee POS - Sistem ERP Kedai Kopi",
+  "description": "Sistem ERP terintegrasi untuk K99 Coffee: Point of Sale kasir cepat, pencatatan otomatis stok bahan baku berbasis resep (BOM), dan laporan laba rugi serta keuangan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
